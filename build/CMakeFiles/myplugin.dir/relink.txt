@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libmyplugin.so -o CMakeFiles/CMakeRelink.dir/libmyplugin.so CMakeFiles/myplugin.dir/myplugin.cpp.o  -L/usr/local/lib -lopenrave0.9 
